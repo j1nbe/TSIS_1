@@ -1,0 +1,7 @@
+#Examples
+x = 5
+print(type(x))
+#Exercises
+x = 5
+print(type(x))
+int
